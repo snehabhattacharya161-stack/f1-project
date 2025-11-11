@@ -27,7 +27,7 @@ body {
 }
 
 .logo img {
-    height: 65px;
+    height: 45px;
     border-radius: 8px;
 }
 
@@ -196,3 +196,4 @@ body {
     box-shadow: 0 0 25px rgba(255, 48, 48, 0.5);
     transform: rotate(0deg);
 }
+
